@@ -27,3 +27,7 @@
 *.exe
 *.out
 *.app
+QtTest
+QtWidgets
+QtCore
+QtGui
