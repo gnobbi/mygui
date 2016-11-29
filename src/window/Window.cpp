@@ -15,4 +15,3 @@ Window::Window(int argc, char *argv[])
 	s.show();
 	app.exec();
 }
-
